@@ -14,3 +14,7 @@
 - Husky hooks run linters/fixers locally before you commit.
 - Prettier
 - Mailpit (Docker)
+
+## Lesson 2: Setting Up a Staging Development Environment
+
+Focussed on setting up a Laravel Forge account - skipped
